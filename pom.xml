@@ -151,7 +151,7 @@
     <junit.platform.version>1.8.2</junit.platform.version>
     <logback.version>1.2.10</logback.version>
     <maven.clean.plugin.version>3.2.0</maven.clean.plugin.version>
-    <milo.version>0.6.3</milo.version>
+    <milo.version>0.6.5</milo.version>
     <mockito.version>4.4.0</mockito.version>
     <netty.version>4.1.75.Final</netty.version>
     <owasp-dependency-check.version>7.0.4</owasp-dependency-check.version>
